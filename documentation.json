@@ -16,29 +16,19 @@
         "icon": "book",
         "groups": [
           {
-            "group": "Getting Started",
-            "icon": "rocket",
+            "group": "Компоненты",
+            "icon": "album",
             "pages": [
               {
-                "title": "Introduction",
-                "path": "introduction",
-                "icon": "home"
-              },
-              {
-                "title": "Quick Start",
-                "path": "quickstart",
-                "icon": "zap"
-              }
-            ]
-          },
-          {
-            "group": "Core Concepts",
-            "icon": "layers",
-            "pages": [
-              {
-                "title": "Features",
-                "path": "features",
-                "icon": "star"
+                "group": "Формы",
+                "pages": [
+                  {
+                    "title": "FInput",
+                    "path": "finput",
+                    "icon": "form-input"
+                  }
+                ],
+                "icon": "text-cursor-input-icon"
               }
             ]
           }
